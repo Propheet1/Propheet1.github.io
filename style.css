@@ -188,3 +188,8 @@ body {
   background-image: url("img/icon-phone.svg");
 }
 
+.video {
+ display: flex;
+ justify-content: center;
+}
+
